@@ -4,8 +4,9 @@ public class Master {
     int b = 20;
 
     int c = 30;
-
     int d = 40;
+
+    int f = 30;
 
 
 
